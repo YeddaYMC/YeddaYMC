@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ## 2026.2
+[V_WIPEX-IFPR 📷 Photo capture](https://github.com/YeddaYMC/V-WIPEX---MOLDURA/blob/main/README.md)
+
+Evento de extensão do IFPR Campus Pinhais. 11, 12 e 13/10/2026.
 
 [VI SciTec](https://github.com/YeddaMC/VI_SciTec-PORTFOLIO_4.0-INTRODUCAO_A_ORGANIZACAO_DE_PROJETOS_E_VISIBILIDADE_COM_GITHUB)
 -- [Tutorial](https://yeddamc.github.io/VI_SciTec-PORTFOLIO_4.0-INTRODUCAO_A_ORGANIZACAO_DE_PROJETOS_E_VISIBILIDADE_COM_GITHUB/index.html)
