@@ -12,3 +12,13 @@
 
 ## Certificados
 [Certificados](https://github.com/YeddaYMC/CERTIFICADOS)
+
+
+
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=YeddaYMC&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ofensiva do GitHub](https://streak-stats.demolab.com?user=YeddaYMC&theme=radical)](https://git.io/streak-stats)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=YeddaYMC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
